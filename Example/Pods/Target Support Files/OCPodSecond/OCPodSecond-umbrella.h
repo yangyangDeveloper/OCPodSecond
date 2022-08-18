@@ -10,6 +10,8 @@
 #endif
 #endif
 
+// 这个头文件替代了bridging header的作用，文件中会自动导入OC类
+#import "ZYYOCDog.h"
 
 FOUNDATION_EXPORT double OCPodSecondVersionNumber;
 FOUNDATION_EXPORT const unsigned char OCPodSecondVersionString[];
