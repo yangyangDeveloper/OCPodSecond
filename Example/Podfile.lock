@@ -1,0 +1,16 @@
+PODS:
+  - OCPodSecond (0.1.0)
+
+DEPENDENCIES:
+  - OCPodSecond (from `../`)
+
+EXTERNAL SOURCES:
+  OCPodSecond:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OCPodSecond: 9e7dddf0aed7918c2f5d1c74a31c1bcdf95078be
+
+PODFILE CHECKSUM: 92c5410af30ddaa8eec9b0df2be3f24748d53694
+
+COCOAPODS: 1.11.3

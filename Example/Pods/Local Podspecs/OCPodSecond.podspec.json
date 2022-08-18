@@ -1,0 +1,22 @@
+{
+  "name": "OCPodSecond",
+  "version": "0.1.0",
+  "summary": "A short description of OCPodSecond.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yangyangDeveloper/OCPodSecond",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangyangDeveloper": "zyydeveloper@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yangyangDeveloper/OCPodSecond.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "OCPodSecond/Classes/**/*"
+}
