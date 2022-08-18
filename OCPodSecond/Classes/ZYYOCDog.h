@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface ZYYOCDog : NSObject
-
+- (void)sport;
 @end
 
 NS_ASSUME_NONNULL_END

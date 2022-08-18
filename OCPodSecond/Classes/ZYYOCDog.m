@@ -9,5 +9,7 @@
 #import "ZYYOCDog.h"
 
 @implementation ZYYOCDog
-
+- (void)sport {
+    NSLog(@"dog sport");
+}
 @end
